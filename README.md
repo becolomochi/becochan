@@ -1,3 +1,3 @@
-# Yattecast
+# べころもちチャンネル
 
-https://r7kamura.github.io/yattecast/
+Based on https://r7kamura.github.io/yattecast/

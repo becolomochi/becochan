@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  becolomochi:
+    image_url: /images/actors/becolomochi.jpg
+    name: becolomochi
+    url: http://twitter.com/becolomochi
+  curry:
+    image_url: /images/actors/curry.png
+    name: curry
+    url: http://twitter.com/becolomochi
+author: becolomochi
+description: べこと旦那がゆるく話すべころもちチャンネル
+description_long: べこ(becolomochi)と旦那が日々のことなどをゆるく話すポッドキャストで、べころもちチャンネルの略
+email: becolomochi.channel@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -19,15 +19,15 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
-hashtag: examplehashtag
+google_analytics: UA-125086659-1
+hashtag: becochan
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: manga,anime,daily,becolomochi
 language: ja
 markdown: kramdown
-permalink: /episode/:title
+permalink: /:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: becochan
+url: https://develop.becolomochi.com/becochan
