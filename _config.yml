@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics: UA-125086659-1
 hashtag: becochan
-itunes_podcast_url:
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/becochan/id1440381293
 keywords: manga,anime,daily,becolomochi
 language: ja
 markdown: kramdown
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: becochan
-url: https://develop.becolomochi.com/becochan
+url: https://channel.becolomochi.com
